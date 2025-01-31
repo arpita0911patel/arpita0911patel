@@ -1,7 +1,7 @@
 # Hi there, I'm Arpita! 👋
 
 ## About Me
-- 🌱 I’m currently in "DevOps Manager and Enterprise Architect" Role.
+- 🌱 "DevOps Manager and Enterprise Architect" at Alabama Water Institute working on CIROH Projects at University of Alabama, Tuscaloosa.
 - 🔭 I’m working on various projects involving python, docker, terraform, aws, google cloud, HPC.
 - 💬 Ask me about DevOps, Cloud Computing, IT, Project Management.
 - 📫 How to reach me: gagarp@gmail.com
