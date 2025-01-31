@@ -12,10 +12,10 @@
 - **Tools:** Git, GitHub, Docker, VS Code, DockerHub, Azure DevOps
 
 ## Projects
-- **[Project 1](https://github.com/CIROH-UA/NGIAB-CloudInfra)**: 1. NextGen In A Box: NextGen Generation Water Modeling Framework for Community Release (Docker version)
-- **[Project 2](https://github.com/CIROH-UA/ciroh-ua_website)**: 2. CIROH's DocuHub (docs.ciroh.org) - This repository providing in-depth technical insights into CIROH's projects, services, and documentation.
-- **[Project 3](https://github.com/CIROH-UA/NGIAB-HPCInfra)**: 3. NextGen In A Box: NextGen Generation Water Modeling Framework for Community Release (Singularity version)
-- **[Project 4](https://github.com/CIROH-UA/awi-ciroh-image)**: 4. CIROH JupyterHub image repository
+- **[Project 1](https://github.com/CIROH-UA/NGIAB-CloudInfra)**: NextGen In A Box: NextGen Generation Water Modeling Framework for Community Release (Docker version)
+- **[Project 2](https://github.com/CIROH-UA/ciroh-ua_website)**: CIROH's DocuHub (docs.ciroh.org) - This repository providing in-depth technical insights into CIROH's projects, services, and documentation.
+- **[Project 3](https://github.com/CIROH-UA/NGIAB-HPCInfra)**: NextGen In A Box: NextGen Generation Water Modeling Framework for Community Release (Singularity version)
+- **[Project 4](https://github.com/CIROH-UA/awi-ciroh-image)**: CIROH JupyterHub image repository
 
 ## GitHub Stats
 ![Arpita's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpita0911patel&show_icons=true&theme=radical)
