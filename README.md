@@ -51,7 +51,3 @@ Welcome to my GitHub! I’m a **DevOps leader and enterprise architect** passion
 
 ## ⭐ **Fun Fact**
 I thrive on bridging **cutting‑edge tech** with **real‑world science** — and when I’m not architecting Cloud/HPC workflows, I’m planning family adventures or exploring new destinations with my 9‑year‑old.
-
----
-
-If you’d like, I can also design a **custom GitHub profile banner** that visually ties in your cloud + HPC + hydrology focus so your page instantly communicates your niche when people land there. Would you like me to create that next?
