@@ -1,15 +1,15 @@
 # Hi there, I'm **Arpita Patel** 👋  
-*DevOps Manager • Enterprise Architect • Hydrology Tech Innovator*
+*Assitant Director, DevOps and IT • open-source collaborator*
 
-Welcome to my GitHub! I’m a **DevOps leader and enterprise architect** passionate about building resilient research IT infrastructure, advancing open‑source hydrology tools, and enabling community‑driven science. I work at the intersection of **Cloud, HPC, and water modeling** — turning complex workflows into scalable, collaborative solutions.
+Welcome to my GitHub! I’m a **Assistant Director of DevOps and IT** passionate about building resilient research IT infrastructure, advancing open‑source tools, and enabling community‑driven science. I work at the intersection of **Cloud, HPC, and water modeling** — turning complex workflows into scalable, collaborative solutions.
 
 ---
 
 ## 💡 **About Me**
-- **Current Role:** DevOps Manager & Enterprise Architect at [Alabama Water Institute](https://github.com/AlabamaWaterInstitute) and [CIROH-UA](https://github.com/CIROH-UA)  
-- **Focus Areas:** Hybrid cloud + HPC integration, CI/CD automation, containerized modeling frameworks, research‑to‑operations pipelines  
+- **Current Role:** Assitant Director, DevOps and IT at [Alabama Water Institute](https://github.com/AlabamaWaterInstitute) and [CIROH-UA](https://github.com/CIROH-UA)  
+- **Focus Areas:** Hybrid cloud + HPC integration, CI/CD automation, containerized modeling frameworks, research‑to‑operations pipelines, Infrastructure as Code
 - **Passion:** Empowering the hydrology community through open‑source innovation and strategic technical leadership  
-- **Community:** Active contributor to CIROH’s technical ecosystem and NOAA‑aligned water modeling initiatives
+- **Community:** Active contributor to CIROH’s open-source ecosystem and NOAA‑aligned water modeling initiatives
 
 ---
 
