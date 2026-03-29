@@ -1,12 +1,12 @@
 # Hi there, I'm **Arpita Patel** 👋  
-*Assitant Director, DevOps and IT • open-source collaborator*
+*Assistant Director of IT and DevOps • open-source collaborator*
 
-Welcome to my GitHub! I’m a **Assistant Director of DevOps and IT** passionate about building resilient research IT infrastructure, advancing open‑source tools, and enabling community‑driven science. I work at the intersection of **Cloud, HPC, and water modeling** — turning complex workflows into scalable, collaborative solutions.
+Welcome to my GitHub! I’m a **Assistant Director of IT and DevOps** passionate about building resilient research  cyberinfrastructure, advancing open‑source tools, and enabling community‑driven science. I work at the intersection of **Cloud, HPC, and hydrology water modeling** — turning complex workflows into scalable, collaborative solutions.
 
 ---
 
 ## 💡 **About Me**
-- **Current Role:** Assitant Director, DevOps and IT at [Alabama Water Institute](https://github.com/AlabamaWaterInstitute) and [CIROH-UA](https://github.com/CIROH-UA)  
+- **Current Role:** Assistant Director of IT and DevOps at [Alabama Water Institute](https://github.com/AlabamaWaterInstitute) and [CIROH-UA](https://github.com/CIROH-UA)  
 - **Focus Areas:** Hybrid cloud + HPC integration, CI/CD automation, containerized modeling frameworks, research‑to‑operations pipelines, Infrastructure as Code
 - **Passion:** Empowering the hydrology community through open‑source innovation and strategic technical leadership  
 - **Community:** Active contributor to CIROH’s open-source ecosystem and NOAA‑aligned water modeling initiatives
@@ -24,7 +24,7 @@ Welcome to my GitHub! I’m a **Assistant Director of DevOps and IT** passionate
 
 ## 🌟 **Featured Projects**
 - **[NGIAB‑CloudInfra](https://github.com/CIROH-UA/NGIAB-CloudInfra)** – NextGen In A Box: containerized NextGen Framework for community release, enabling rapid deployment across cloud, HPC, and local environments.  
-- **[ciroh-ua_website](https://github.com/CIROH-UA/ciroh-ua_website)** – CIROH’s DocuHub: centralized documentation and technical insights for consortium projects.  
+- **[ciroh-ua_website](https://github.com/CIROH-UA/ciroh-ua_website)** – CIROH’s DocuHub: centralized documentation and technica l insights for consortium projects.  
 - **[ngen](https://github.com/NOAA-OWP/ngen)** – Next Generation Water Modeling Engine prototype (forked for CIROH development).  
 - **[awi-ciroh-image](https://github.com/2i2c-org/awi-ciroh-image)** – Custom JupyterHub image for the Alabama Water Institute CIROH hub.
 - **[NGIAB-HPCInfra](https://github.com/CIROH-UA/NGIAB-HPCInfra)**: NextGen In A Box: NextGen Generation Water Modeling Framework for Community Release (Singularity version)
